@@ -1,0 +1,159 @@
+body {
+	font-family: 'Arvo', serif;
+	color: rgb(255, 255, 255);
+	background: linear-gradient(#999ee5, #c6abd6);
+}
+
+div.container {
+	width: 750px;
+	margin: 0 auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+div.row1 {
+	width: 750px;
+}
+
+div.row2 {
+	width: 750px;
+}
+
+div.row3 {
+	width: 750px;
+}
+
+h2 {
+	padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+div#weapon {
+	background-image: url(../Imgs/weapon.jpg);
+	width: 250px;
+	height: 250px;
+	float: left;
+}
+
+div#dejaentendu {
+	background-image: url(../Imgs/dejaentendu.jpg);
+	width: 250px;
+	height: 250px;
+	float: left;
+}
+
+div#devilandgod {
+	background-image: url(../Imgs/thedevilandgod.jpg);
+	width: 250px;
+	height: 250px;
+	float: left;
+}
+
+div#forkandknife {
+	background-image: url(../Imgs/forkandknife.jpg);
+	width: 250px;
+	height: 250px;
+	float: left;
+}
+
+div#bottom {
+	background-image: url(../Imgs/bottom.jpg);
+	width: 250px;
+	height: 250px;
+	float: left;
+}
+
+div#mene {
+	background-image: url(../Imgs/mene.jpg);
+	width: 250px;
+	height: 250px;
+	float: left;
+}
+
+div#nightmare {
+	background-image: url(../Imgs/nightmare.jpg);
+	width: 250px;
+	height: 250px;
+	float: left;
+}
+
+div#daisy {
+	background-image: url(../Imgs/daisy.jpg);
+	width: 250px;
+	height: 250px;
+	float: left;
+}
+
+div#sciencefiction {
+	background-image: url(../Imgs/sciencefiction.jpeg);
+	width: 250px;
+	height: 250px;
+	float: left;
+}
+
+a:link {
+	color: rgb(226, 222, 222);
+	text-decoration: none;
+	width: 250px;
+	height: 250px;
+}
+
+a:hover {
+	opacity: 0.9;
+	color: rgb(255, 255, 255);
+	background-color: rgb(41, 92, 142);
+}
+a:visited {
+	color: rgb(164, 179, 234);
+}
+
+a:active {
+	color: rgb(158, 239, 234);
+}
+#weapon:hover {
+	opacity:0.6;
+	color: rgb(229, 229, 229);
+}
+
+#dejaentendu:hover {
+	opacity:0.6;
+	color: rgb(229, 229, 229);
+}
+
+#devilandgod:hover {
+	opacity:0.6;
+	color: rgb(229, 229, 229);
+}
+
+#forkandknife:hover {
+	opacity:0.6;
+	color: rgb(229, 229, 229);
+}
+
+#bottom:hover {
+	opacity:0.6;
+	color: rgb(229, 229, 229);
+}
+
+#mene:hover {
+	opacity:0.6;
+	color: rgb(229, 229, 229);
+}
+
+#nightmare:hover {
+	opacity:0.6;
+	color: rgb(229, 229, 229);
+}
+
+#daisy:hover {
+	opacity:0.6;
+	color: rgb(229, 229, 229);
+}
+
+#sciencefiction:hover {
+	opacity:0.6;
+	color: rgb(229, 229, 229);
+}
